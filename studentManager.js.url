@@ -6,9 +6,9 @@ const rl = readline.createInterface({
 });
 
 let students = [
-    { rollNo: '17BCA144', name: 'Raina', degree: 'BCA', city: 'Noida' },
-    { rollNo: '20MCR065', name: 'Dhoni', degree: 'MCA', city: 'Ranchi' },
-    { rollNo: '19COS85', name: 'Virat', degree: 'BSC CS', city: 'Delhi' }
+    { rollNo: '876439', name: 'sai', degree: 'BCA', city: 'Noida' },
+    { rollNo: '4754743', name: 'santhosh', degree: 'MTECH', city: 'Delhi' },
+    { rollNo: '32483487', name: 'koushik', degree: 'CSE', city: 'chennai' }
 ];
 
 // Function to display all students
