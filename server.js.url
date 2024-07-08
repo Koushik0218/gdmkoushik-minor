@@ -5,9 +5,9 @@ const app = express();
 const port = 5000;
 
 let students = [
-    { id: 1, rollNo: '17BCA144', name: 'Raina', degree: 'BCA', city: 'Noida' },
-    { id: 2, rollNo: '20MCR065', name: 'Dhoni', degree: 'MCA', city: 'Ranchi' },
-    { id: 3, rollNo: '19COS85', name: 'Virat', degree: 'BSC CS', city: 'Delhi' }
+    { id: 1, rollNo: '87653', name: 'sai', degree: 'BCA', city: 'Rajasthan' },
+    { id: 2, rollNo: '243243', name: 'santhosh', degree: 'MTECH', city: 'Delhi' },
+    { id: 3, rollNo: '343345', name: 'koushik', degree: 'CSE', city: 'Chennai' }
 ];
 
 let nextId = 4;
